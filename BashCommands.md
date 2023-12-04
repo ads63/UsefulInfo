@@ -11,9 +11,9 @@ tail -cN - f server.log
 tail -cN server.log
 ## HEAD display file(s) content
 ### display first N lines from *.log files (default N=10)
-tail -nN  *.log
+head -nN  *.log
 ### display first N characters from server.log file
-tail -cN server.log
+head -cN server.log
 ## GREP to search in file or in other command output
 ### to searh in file(s)
  grep [options] [pattern] [file]
