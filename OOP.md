@@ -2,6 +2,7 @@
 ## inheritance - child inherits parent's functionality
 ## encapsulation - encasulate entity's properties & methods in single entity, hide internal realization, provide external interface
 ## polymorphism - different realizators of interface can be processed similarly
+## abstraction - separation of the contract and its implementation using interfaces/protocols or abstract classes
 
 # SOLID
 ## Single responsibility: 1 class = 1 responsibility
